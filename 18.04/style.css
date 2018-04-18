@@ -23,3 +23,12 @@
     padding: 70px 0;
 }
 
+.userpic {
+    display: inline!important;
+    width: 350px;
+    height: 350px;
+}
+
+.birds {
+    width: 100%;
+}
