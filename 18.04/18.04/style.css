@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-1 {
+    background-color: #1abc9c;
+    color: #fff;
+}
+
+.bg-2 {
+    background-color: #474e5d;
+    color: #fff;
+}
+
+.bg-3 {
+    background-color: #ffffff;
+    color: #555;
+}
+
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+
+.container-fluid {
+    padding: 70px 0;
+}
+
+.userpic {
+    display: inline!important;
+    width: 350px;
+    height: 350px;
+}
+
+.birds {
+    width: 100%;
+}
+
+.navbar {
+    padding: 15px 0;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
